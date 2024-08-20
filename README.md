@@ -18,7 +18,7 @@ To get started with Neo4j-QnA, you need to have Python installed on your machine
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/Neo4j-QnA.git
+   git clone https://github.com/your-username/Neo4j-QnA.git](https://github.com/Kiahmin/Neo4j-QnA.git
    cd Neo4j-QnA
 
 2. **Install Neo4j Driver:**
